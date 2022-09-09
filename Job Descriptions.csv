@@ -1,0 +1,767 @@
+Sl. No,Job Role,Company,Job Description,Source
+1,Quant Analytics Associate,JPMorgan Chase & Co,"Design, develop, and maintain customer dashboards for the Strategic Insights group and teams across Business bank using data visualization tools such as Tableau.
+Interpret and analyze the insights from Tableau-based dashboards & interactive analytic suites to identify and present actionable opportunities and monitor the comparative effectiveness of various initiatives across Business Banking teams.
+Package and present data and insights in an executive and visualized format.
+Prepare and automate the data needed for Tableau dashboards, including any statistically derived metrics or benchmarks; and uses multiple analytic tools and data sources to support that objectives, including Tableau, Alteryx, SAS, SQL, and Excel.
+Pro-actively identify key growth areas and opportunities, and communicate recommendations to the leadership team and various teams across the firm to influence and fine-tune our strategies.
+Collaborate with cross-functional strategy teams within Business Bank to design and deliver customized analyses and strategic roadmaps, and synthesize the data into actionable insights to influence and drive business and strategies.",LinkedIn
+2,Data Analyst,Gojek,"At least a Bachelor’s degree
+Have at least 3 years of experience in Business Intelligence / Analytics
+Expert in SQL
+Intermediate R/Python skills for doing analysis
+Structured and logical way of thinking
+Good knowledge of ETL tools
+Comfortable working both independently with minimal guidance and in a team setting
+Ability to use critical thinking daily to manage daily tasks while being goal-oriented",LinkedIn
+3,Associate - Analytics,Genpact,"Hands of experience with Data processes like Reporting, MDM analysis, Data matching, Querying, CRM data updates, Customer data Management etc.,
+Good understanding of Pharma commercial data sets like DDD, NPA, NSP, Rx, Call activity, Veeva etc., will be advantage
+Hands on technical skills in SQL, R, Python, visualization tools Tableau, Power BI
+Ability to develop queries to analyze data and visual the results to present back to the stakeholders",LinkedIn
+4,Data Analyst - 2,PayPal,"Using modeling and analytics to understand how business decisions impact our bottom line. This may include assessing risks of new products, determining fraud policies, or identifying inefficiencies in existing operations.
+Ensuring the team is delivering on our KPIs by using various data mining and data visualization tools to monitor portfolio performance and identify improvement opportunities
+Developing hypotheses and set up your own problem frameworks to test for the best solutions. You will also scope the operational feasibility, lead implementation efforts, and monitor the success of your solutions.
+Leveraging data analysis tools and technologies. For example, using machine learning to determine how we identify fraud.
+Creating new solutions rooted in empathy and research that assist all customers as they work to better manage their finances.?
+Collaborating in a team environment. As part of our crew, you will learn to energetically rally diverse groups in pursuit of a common goal.",LinkedIn
+5,Data Analyst I,Cerner Corporation,"Leverage business data and statistical methods to provide insight into business performance and suggest areas for and methods of improving operations
+Lead Implementation of analytical approaches and methodologies to solve business problems
+Manage cross-functional, highly complex data analytics projects
+Provide consultation and interpretation of results
+Manage analysis of internal and/or external data to provide benchmarks for comparison purposes
+Facilitate discussion of data outcomes with senior leaders to drive decision making and strategic planning                                                                                                                                                                                                                                                                                Manage routine associate situations
+Direct the work efforts and results of a team of associates
+Develop team goals and manage them for results
+Develop associates through coaching performance, completing performance reviews, goal setting and development planning
+Promote diversity and create a respectful work environment",LinkedIn
+6,Data Scientist,Tesco Bengaluru,"An intermediate knowledge level of the Data Science Toolkit to participate in the majority of the Data Science Project Lifecycle. Solve Data Science problems and deliver projects with minimal support from senior team members.Understand difficult business problems and prototype solutions
+Analyse and link complex datasets so that they may be learned from or optimised
+Build mathematical models on top of big data architectures to gain deep insights into opportunities to improve the customer experience and the Tesco business
+Communicate complex solutions in a clear understandable way to non-experts
+Promote data science across Tesco and promote Tesco across the external Data Science community
+Experience of contributing to the success of high impact Data Science projects within complex organisations
+Experience of extracting insights from large data sets containing event records for millions of customers
+Experience of partnering with Data Engineering teams to productionize your developments and roll out at scale",LinkedIn
+7,Data Science Specialist,GE Aviation,"The Data Science Specialist will be a part of Supply Chain and Engine Time-On-Wing Domains, r esponsible to work on data science projects under the supervision of senior team members and deliver business outcomes. Develop data science models to address supply chain and engine fleet support teams’ needs and opportunities. Work alongside software developers and software engineers to translate algorithms into viable products and services. Work in technical teams in development, deployment, and application of applied analytics, predictive analytics, and prescriptive analytics. Perform exploratory and targeted data analysis using descriptive statistics and other methods. Work with data engineers on data quality assessment, data cleansing and data analytics. Generate reports, annotated code, and other projects artifacts to document, archive, and communicate the work and outcomes. Share and discuss findings with team members.",LinkedIn
+8,Analyst-DTI-FS Tech- Campus,KPMG ,"Attitude, eagerness to learn, contribute and prepared to work for at least 2 years
+Good spoken & written communication skills
+General awareness about IT / Technology trends, Open Source, Banking etc.
+Engagement in other activities / college initiatives
+MS Office/ emails – assumed to there!
+Project experience –
+College Project – area of work, role in team, ability to clearly articulate problem and solution
+Tech/ Developers
+Analytical skills / logical problem solving (puzzles etc.)
+Information Technology – BTech/ MCA/ BE/ MSc Computer Science
+Strong in Computer Science Concepts, including Operating System, DBMS, Networking, Object Orientation
+Programming languages – well versed with at least one programming language – C / C++ / Java / C-Sharp / Python
+Familiarity with IT Applications – Web-based / Client-server / Cloud-based
+Business Analysts
+MBA with a BTech/ BE
+Strong domain orientation exhibited thru’ internship projects/ electives
+Analytical skills / logical problem solving (puzzles etc.)
+PMO - Project Manager
+Bachelor’s degree
+MS Office
+Good project/ internship experience",LinkedIn
+9,Data Analyst,Stanza Living,"You will work closely with business managers and product managers to create an enormous impact using the latest analytics tools and techniques.                                                                                                                                                                                               Work on high-level projects and deep dives to figure out insights from the data and build analytical frameworks and presentations.
+Be able to work on the end to end analysis independently.
+Build analytics reporting by making sure the tracking is done at the right frequency for the KPIs.
+Build ML models to mature a problem from Analytics state to Data Science                                                                                                                                                                                                                                                                                                                                   Co-own the product goals and drive analytics in the right direction to achieve the goals.                                                                                                                                                                                                                                                                                                            You will be extected to involve in hiring, leading, and mentoring junior analysts in the team.                                                                                                                                                                                                                                                                                                 Preferably 3+ years of analytical experience.
+Tier 1 engineering college graduate / MBA.
+Extremely strong analytical orientation and product understanding.
+Demonstrated experience in descriptive, predictive analytics and expertise in SQL and Python/R.
+Experience with Reporting and Business Intelligence tools like Tableau, Qlikview, Looker, etc.
+Experience with Clevertap, Mixpanel, Amplitude, etc.
+Exposure with distributed analytics processing technologies is desired (e.g. Hive, Spark).Ability to understand data architecture and data engineering pipelines is good to have.",LinkedIn
+10,Data Analytics,BorgWarner,"Support Engineering Excellence team in Systems and Software Engineering Organisation to improve operational efficiency
+Analyzes systems/software program requirements and develop solutions
+Establish link between Project and site financial use to help SYPLs track project level
+Data mining for KPIs
+Gather information from various sources (data ware houses, database, data integration and modelling) and interpret patterns and trends
+Develop record management process and policies
+Create data dashboards, graphs and visualization to show case business performance
+Mine and analyze large datasets, draw valid inferences andpresent them successfully to management using a reporting tool
+Develop new Tool chain for data analysis
+Collaborates with the BorgWarner IT group in establishing corporate standard tool set strategies
+Adapts the BorgWarner IT enterprise-wide tool landscape to the PDS business unit use case
+Develops and monitors systems/software process metrics to verify/validate effective and usage of implemented tools
+Aligns tool selection, development and configuration to optimally meet systems/software process requirements
+Improves tool solutions based on lessons learned and evolving best practices
+Develop predictive models and share insights
+Skills
+
+Mandatory
+Experience in data visualization/business analytics tools like Power BI/Tableau/Qlik
+Experience in Python/Perl scripting, Relational Databases, SQL
+Knowledge in programming languages like C++,JAVA
+Proficiency in statistics and statistical packages like Excel
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Experience in database design development, data models, techniques for data mining
+Additional preferences
+Agile project management experience strongly desired
+Experience with Requirements management or Application Lifecycle Management products like Polarion a plus
+Experience with SCM tools such as Git, a plus
+Experience with JIRA or other agile planning tools a plus
+Attributes
+Self-motivated with a strong and flexible attitude towards work
+Ability to communicate at all levels
+Excellent attention to detail
+Ability to work under pressure and to deadlines when required
+The ability to prioritize and organize own workload
+Treat colleagues with respect (Equality and Diversity)",LinkedIn
+11,Data Scientist,Honeywell,"Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to drive optimization and improvement of data quality.
+Selecting features, building and optimizing classifiers using machine learning techniques.
+Anomaly detection to improve Data Quality.
+Data mining using state-of-the-art methods.
+Enhancing data quality using AI/ML based approaches.
+Processing, cleansing, and verifying the integrity of large volume of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Skills And Qualifications
+We’re looking for someone with 5 years of experience manipulating data sets and building statistical models, has a Bachelor’s or Master’s in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the following software/tools:
+Experience querying databases and using statistical computer languages: Python, SLQ, etc.
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Random Forest, Decision Trees, etc.
+Experience working in processing texts using NLP methods.
+Great communication skills.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills.",LinkedIn
+12,Associate - Analytics,Capital One,"Analysis: Identify business challenges and opportunities for improvement and solve for them using business, statistical and data analysis to make strategic recommendations
+Product: Conceptualize and develop world class data products that typically leverage Machine Learning applied on structured and unstructured data
+Execution: Includes the development of frameworks, hypotheses, tests, analysis and options, scoping operational feasibility, leading implementation efforts and developing a monitoring plan
+Partnership: Work closely with business leaders across Capital One
+What are we looking for?
+Strategic & analytic orientation: A proven track record of data driven decision making and problem solving. Exceptional conceptual thinking skills complemented by rigor and strong quantitative orientation
+Strong business judgment, leadership and integrity: She/he should be a tenacious problem solver with good judgment and an open-minded approach. One who pushes the envelope but is rooted in ground reality
+Strong communication skills: Impeccable written and oral communications, coupled with strategic influencing skills and the ability to drive agreement through intellect, interpersonal and negotiation skills
+Clear results orientation: Display an intense focus on achieving both short and long term goals. She/he should be able to drive and execute an agenda in an uncertain and fluid environment
+Successful track record of thriving in a fast paced, entrepreneurial, and dynamic environment.",LinkedIn
+13,Data Scientist,Visa,"Be a standout data scientist who understands the algorithm construct at the mathematical level and not merely understanding of using available libraries
+Passionate about brainstorming innovative ways to implement data science algorithms to production environment
+Fine tune Hadoop applications for high-performance and throughput. Troubleshoot and debug any Hadoop ecosystem runtime issues
+Communicate with product partners and clients to understand the challenges they face and convince them with data
+Extract and understand data to form an opinion on how to best help our clients and derive relevant insights
+Ability to work independently and in a team to develop innovative solutions
+Develop visualizations to make your complex analyses accessible to a broad audience
+Partner with a variety of Visa teams to provide comprehensive solutions
+Find opportunities to craft products out of analyses that are suitable for multiple clients2+ year's experience in data-based decision-making or quantitative analysis
+Bachelor’s degree in computer science economics, statistics, mathematics, operations research or many others (master's degree is a plus)
+Deep knowledge of data science models.
+Strong programming skills in Python and PySpark
+Experience with Hadoop framework components (HDFS, NiFi, Spark, Scala, Presto)
+Experience with extracting and aggregating data from large data sets using Presto, Hive or other tools
+In-depth understanding of Data Structure and Algorithms
+Excellent interpersonal skills, strong verbal and written communications skills - capable of developing well-structured communications and presentations
+Previous exposure to financial services, credit cards or merchant analytics is a plus, but not requiredAdditional InformationVisa has adopted a COVID-19 vaccination policy. As a condition of employment, all employees based in the country where this job is located are required to be fully vaccinated for COVID-19, unless a reasonable accommodation is approved or as otherwise required by law.IndiaVisa Inc.VisaData Science/Data Engineering",LinkedIn
+14,Data Analyst,Automation Anywhere,"Lead data analysis and reporting for training and community skill building initiatives. Owning up data centric activities including collection, analysis, and processing data for sales & operations. Emphasis will be more towards extracting insights, identifying trends / anomalies and building actionable intelligence to achieve business objectives.
+Build different dashboards and reports using cleansing and mining techniques to measure key performance indicators against organizational business objectives.
+Collaborate with senior management and cross function team members to understand various data requirements for informed decision making. Often to act as a data translator between business units, IT and backend data repository teams to drive engagement.
+Location: Remote position with the opportunity to be located in metro cities in India .
+
+You Will Be a Great Fit If You Have
+Graduate degree (Engineering / Non-Engineering) from premier institutes with 4-6 years of work experience in sales operations and reporting, executive insight generation
+Good understanding of statistical data analysis (correlation, regression analysis, ANOVA, statistical modelling etc.)
+Experience in Advanced sales analytical and reporting skills using tools like SFDC and Tableau.
+Hands-On experience in working with data visualization tools. Proficient in formulating interactive dashboards/reports involving complex data using Advanced Excel, VBA, Power BI etc.
+Experience in prior working with technical Training Services / MOOC/ EdTech industry space a plus",LinkedIn
+15,Data (Analytics) Architect,Biocon Biologics ,"Guide the direction of Digital Transformation team in Analytics & lead in identifying opportunities within business, technology evaluations & selections
+Support in establishing roadmap for DaaS and may provide technical guidance and leadership beyond immediate team
+Lead development of industry standard ETL tools such as Informatica, Talend, Ab Initio, IBM DataStage etc as they deliver a wide range of application or system solutions
+Responsible for making innovative architecture & technology recommendations in the Analytics space for Biocon Biologics
+Responsible to establish coding standards, ETL framework and standard data flow using the approved ETL tools across DaaS
+Lead the discussion around business objectives related to Analytics & AI/ML across variety of decision makers including executives
+Responsible for end-to-end development & implementation of the NextGen Platform/Technology in Analytics ETL/Viz space
+Review & provide inputs for solution architectures from Analytics/ETL/Data Architecture perspective
+Collaborate closely with Digital Stakeholders to conduct proofs of concepts for emerging technologies & business concepts related to NextGen technologies in Analytics
+Understand & influence Stakeholders on latest industrial & academic developments in Analytics
+Enhancing Development Capability assessment with a continuous learning approach to grow team expertise leveraging curated training curriculum
+Well versed with skills like Artificial Intelligence, Clustering, Machine Learning, Random Forest & Regression",LinkedIn
+16,Machine learning systems engineer,Qualcomm,"Assists with the collection of information and identifies fundamental patterns/trends in systems design.
+Conducts basic analyses to identify where an issue has occurred with supervision.
+Gathers information from a variety of sources in order to troubleshoot issues with close supervision.
+Appreciates the contributions made by individuals of varying backgrounds, locations, and cultures.
+Collaborates with project team to accomplish project objectives.
+Networks with colleagues within own team to gain insight, ideas, and connections.
+Collaborates with individuals inside own team to complete the team's work.
+Contributes to conversations during technical team discussion.
+Communicates with project lead via email and direct conversation to provide status and information about impending obstacles.
+Tests features with close direction/supervision from tech lead and supports the implementation of a systems framework for a project.
+Assists tech leads on a project in order to verify the accuracy of systems with close supervision.
+Supports experienced engineers to define and document system level requirements for a proposed product or feature.
+Assists with the development of system level design including requirements allocation, interface definition, behavior and performance definition for major system components.
+Assists with the documentation of system requirements and design.
+Troubleshoots simple issues in systems design and fixes those issues.
+Identifies bugs within own design and fixes them with close supervision and may work to help investigate how issues occur to prevent future issues.
+Escalates technical issues to an appropriate party (e.g., project lead, colleagues).
+
+Level Of Responsibility
+Working under close supervision.
+Taking responsibility for own work and making decisions with limited impact; impact of decisions is readily apparent; errors made typically only impact timeline (i.e., require additional time to correct).
+Using verbal and written communication skills to convey basic, routine factual information about day-to-day activities to others who are fully knowledgeable in the subject area.
+Completing most tasks with multiple steps which can be performed in various orders; some planning and prioritization must occur to complete the tasks effectively; mistakes may result in some rework.
+Exercising some creativity to troubleshoot technical problems or deal with novel circumstances.
+Limited problem solving required, generally in the nature of troubleshooting simple processes or technology.
+",LinkedIn
+17,Business Analyst,Societe Generale,"Identify, analyze, challenge and translate users or product owner needs.
+
+? Define the solutions and evaluate the impacts based on Business Requirements
+
+? Write the functional user stories into JIRA.
+
+? Estimate project deadlines on its perimeter.
+
+? Identify, write and validate the test cases.
+
+? Anticipate and accompany the changes.
+
+? Provide project report and regular communication.
+
+? Handle Agile Ceremonies as a Scrum Master
+
+The specificities of the job will be specified during the interview.
+
+Profile required
+
+Master’s degree in computer science / engineering school, you have a first experience as a Business Analyst in an Agile Context.
+
+Good capacities of communication and adaptation.
+
+Ability to work in international context (team is shared in 3 continents).
+
+Compliance knowledge is not a prerequisite.
+
+As an Agile Business Analyst, you will work on the design and implementation of new Compliance needs and testing part:
+
+Your main activities are :
+
+? Identify, analyze, challenge and translate users or product owner needs.
+
+? Define the solutions and evaluate the impacts based on Business Requirements
+
+? Write the functional user stories into JIRA.
+
+? Estimate project deadlines on its perimeter.
+
+? Identify, write and validate the test cases.
+
+? Anticipate and accompany the changes.
+
+? Provide project report and regular communication.
+
+? Participate to Agile Ceremonies (Daily standup, Demonstration, Grooming…)
+
+The specificities of the job will be specified during the interview.
+
+? Demonstrate good listening and understanding skills and anticipation of users' needs.
+
+? Demonstrate interpersonal skills in order to communicate with all types of interlocutors (business, technical teams, ...).
+
+? Understand the issues and know how to transcribe them.
+
+? Be able to analyze and share the benefits and risks of a specific solution
+
+Team Spirit
+ Organize the collaboration to find the best solutions.
+Be an active listener, a pedagogue, share information and transfer know-how.",LinkedIn
+18,Business Analyst,Cargill,"Must have worked for Data Analytics project as Data Analyst or Business Analyst for atleast 2 project or one project E2E. Please do not go forward if they have working as a Tester or developer in Analytics project. Business/Data Analyst skill is Mandate
+Well versed in gathering the requirements and documenting the same in BRD or FRD or any Agile tools
+Expert in data profiling, writing complex SQL queries
+Writing User stories and acceptance criteria
+Excellent communication skills
+Should have been worked in Agile
+Should be able to bridge the gap between the Business Users and the Technical Teams Contribute to developing information technology strategies, polices and plans.
+Translate business requirements into application requirements.
+Contribute to recommending solutions or improvements to business processes using new technology or alternative uses of existing technology.
+Contribute to identifying and analyzing business needs, gathering requirements and defining scope and objectives to make business decisions
+Independently solve moderately complex issues with minimal supervision, while escalating more complex issues to appropriate staff.
+Other duties as assigned",LinkedIn
+19,Customer Experience Analyst,Lenovo,"Expereience in creating action oriented dashboards within Tableau / QlikSense /PowerBI
+Understanding of Digital Analytics tools such as Adobe Analytics, Google Analytics, etc.,
+Basic understanding of database such as SQL, PostgreSQL, etc.,
+Work on Customer VOCs analysis and manage survey (Create, edit, manage) - Prior experience will add more weightage
+Support various teams such has business, development, UX, Operations, Business & product teams on analytics needs
+Should be able to convert business requirements to analytics requirements
+Work on customer journey analysis deep-dives and should be in story-telling",LinkedIn
+20,Analyst - Bing,InMobi,"1+ years working in search engine marketing?
+Experienced using Excel to analyze information, Advance Excel, SQL, including data manipulation and data analysis
+Critical thinker who is organized and can make decision based on clear priorities
+Problem solver and multitasker who can partner well with other teams?
+Collaborative teammate who can build successful team relationships with partners; and can prioritize multiple tasks
+Excellent written and verbal communication skills
+Flexible and able to quickly adapt to changing business needs and processes
+Positive and creative ‘can do’ attitude with a strong work ethic?
+Self-motivated and willing to contribute ideas?",Glassdoor
+21,Data Scientist,Optum,"Uses pertinent data and facts to identify and solve a range of problems within area of expertise
+Investigates non- standard requests and problems, with some assistance from others
+Works exclusively within a specific knowledge area
+Prioritizes and organizes own work to meet deadlines
+Provides explanations and information to others on topics within area of expertise
+Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+Required Qualifications:
+Undergraduate degree or equivalent experience
+Hands-on experience with pandas and NumPy stack
+Hands-on experience with packages and libraries like scikit-learn, Keras , TensorFlow etc. Uses pertinent data and facts to identify and solve a range of problems within area of expertise
+Investigates non- standard requests and problems, with some assistance from others
+Works exclusively within a specific knowledge area
+Prioritizes and organizes own work to meet deadlines
+Provides explanations and information to others on topics within area of expertise
+Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+Required Qualifications:
+Undergraduate degree or equivalent experience
+Hands-on experience with pandas and NumPy stack
+Hands-on experience with packages and libraries like scikit-learn, Keras , TensorFlow etc.",Glassdoor
+22,Data Scientist,JPMorgan Chase & Co,"Collaborate with key stakeholders, product and marketing partners to understand the business problem, designing A/B experiment, defining hypotheses and driving the analysis
+Help the LOB stakeholders innovate through data-driven decisioning by analyzing data from diverse data sources to create rich insights that enable better decision-making
+Work with other Data teams and multi-task on projects to summarize and synthesize data and present recommendations to the businesses in a clear and logical manner
+Identify unexplored data opportunities for the business to unlock and maximize the potential of digital data within the organization
+Support ongoing technology evaluation process and proof of concept projects
+
+Qualifications
+Experience with SQL with a strong ability to write complex queries to extract information arrive at an answer
+Experience with advanced statistics and big data
+Familiarity with machine learning concepts and its application
+Competent in data analysis in Python
+Distinctive problem-solving skills and impeccable business judgment
+Ability to translate analysis results into business recommendations, and excellent written and confident verbal communication skills
+Demonstrated ability to think beyond raw data and to understand the underlying business context and sense business opportunities hidden in data
+Strong written and oral communication skills; ability to communicate effectively with all levels of management and partners from a variety of business functions
+Self-starter who can provide insights and drive results in a dynamic and fast evolving environment
+Adept at multi-tasking and meeting deadlines in high-pressure environment",Glassdoor
+23,Data Scientist,Measured,"Implement statistical and econometric models to estimate sales as a function of marketing and promotional activities.
+Interpret, document and present/communicate analytical results to multiple business disciplines, providing conclusions and recommendations.
+Take analytical objectives and define data requirements. Extract, clean, and transform customer and product data for purposes of analysis, modeling/segmentation and reporting.
+Work closely with the Manager of Data Science to test experimental design systems, address data issues, and analyze experiment results.
+Identify, develop and make recommendations for process improvements and best practices.
+
+Qualifications
+Bachelor/Master’s degree in Mathematics, Statistics, Operations Research, Computer Science, Economics, Econometrics, Industrial Engineering or other quantitative fields.
+No work experience necessary for master’s degree holders and minimum of 3 years of related work experience in experimental designs or marketing analytics for bachelor’s degree holders.
+Experience and proficiency in implementing statistical/econometric models and algorithms using Python or R.
+Working knowledge of SQL.
+Ability to translate business objectives into analytical plan/framework, conducting the analysis and interpreting data to derive insights and interpret results to develop and communicate recommendations to internal teams and clients.
+Ability to translate results from predictive and prescriptive models into clear written and verbal communication.
+Excellent ability to be part of multiple projects/initiatives while simultaneously meeting deadlines in a diverse environment.
+Strong team player and ability to work independently with minimum supervision.",Glassdoor
+24,"Data Scientist-Predictive Analysis,Time Series Forecasting",Wipro Limited,"As a Senior Consultant in one of the industry verticals, you are responsible for contribution to the functional design, architecture of the solution and product configuration for an implementation. You may have managerial responsibilities towards the team of analysts and developers. You should be able to lead project planning and delivery effort from the domain team. You are expected to build value through deep product, functional and application expertise and client manager engagement capabilities",Glassdoor
+25,Data Scientist,Falabella India,"Understand the business problem end to end and document them in a way that the business can comprehend
+Translate the business problem into a data science problem by analysing the feasibility, data availability, scalability of the solution and implementation feasibility; call out bottlenecks and potential risks that they foresee and suggest potential tweaks that can help them circumvent these bottlenecks
+Collect relevant data from varying sources, clean and transform them to make them model ready
+Apply various transformations on the data sources, perform extensive exploratory analysis, feature reduction, generation of embeddings, evaluation of goodness of embeddings, overcome the shortcomings of the data by seeking creative ways of solving the problem
+Evaluate the potential solutions of solving the problem by exploring different approaches, algorithms, hyper parameters optimization, creative hacks into the algorithm to optimize the objective function
+Understand and suggest the right metrics to measure the performance of the model and make the solution interpretable to the business using creative visualizations
+Translate the solution into action by building end-to-end pipelines using various automation and pipeline tools
+Requirements:
+NLP
+Algorithms
+Hyper Parameters",Glassdoor
+26,Staff Data Scientist ,Vmware,"You will have two key focus areas outlined below:
+Own the Applied ML research and innovation goalsFile 1-2 patents every year, based on the applied ML models developed in collaboration with IT & Business
+Publish at least 2 papers every year in prestigious journals / conferences (internal & external)
+Follow relevant work being done in academic and other research organizations to be as close as possible to the state-of-the-art in the fields of ML and AI
+Knowledge sharing & mentoring other team members on best ML practices and latest techniques
+Solve complex ML problems in collaboration with Engineering / Product / Business teams
+Work with Sr. Management to identify ML opportunities and build a strong project pipeline
+Deliver 3-4 impactful ML models every year across diverse domains within VMware (IT automation, security, customer experience, Sales & Marketing, Operations etc)
+Collaborate with engineers and assist them in the design and implementation of ML pipelines (data ingestion, feature extraction, training, testing and validation, inference, and continual learning) in production
+What you bring: (other than your passion for Data Science)
+Masters Degree in Machine Learning, Statistics, Applied Math, or other quantitative fields
+Experience. as a Data Scientist developing and deploying ML models
+Hands on skills in industry-standard machine-learning stack (pandas, numpy, sklearn, Keras, Spark)
+ Experience in implementing ML models, data pipelines and testing frameworks for production use
+Working experience in analytics, data mining, and/or predictive modeling, and data interpretation
+What is the leadership like for this role? What is the structure and culture of the team like?
+This role directly reports to Archana Nehru, head of Data Sciences and Advanced Analytics in VMware.",Glassdoor
+27,Data Scientist - All Levels,Greenizon Agritech Consultancy,"Identifying valuable data sources and automate collection processes
+Undertaking pre-processing of structured and unstructured data
+Analyzing large amounts of information to discover trends and patterns
+Building predictive models and machine-learning algorithms
+Presenting information using data visualization techniques
+Proposing solutions and strategies to business challenges
+Collaborating with other teams in the organization
+Skills:
+Graduate or post graduate with experience in solving data science problems
+Proficient with Python/R and SQL
+Statistical and ML modelling techniques: Linear/logistic regression (including advanced predictor selection techniques), classification (decision trees, random forests), Support VectorMachines (SVMs), neural networks, etc
+Algorithm Development: Machine learning, Deep learning, and advanced Algorithmic solution development
+Ability to think strategically about Customer experience, business, product, and technical challenges
+Familiarity with tech stacks and ability to building scalable and production ready models
+Good written and verbal communication skills",Glassdoor
+28,Senior Data Scientist,Great Learning,"Own the quality of end to end learning content for our flagship programs in international markets
+Ensure ongoing review of all the learning content and identify opportunities to improve quality in terms of appropriateness, accuracy, richness.
+Lead the efforts towards updating the content as well as creating additional content - videos, reading material, exercises and assignments. This will include creating content by self as well as engaging with SMEs to create the same. The most important aspect here will be to pick up problems from across business domains and functions, create solutions for them and then translate them into case studies.
+Deliver a great learner support experience by ensuring timely response and feedback on all academic queries from learners
+Create unique learning experiences that enable Great Learning customers to have a delightful learning experience and meaningful outcomes, these could be hackathons, conferences, panel discussions, industry sessions, ad-hoc competitions etc.
+Use insights derived from ad-hoc data analyses to answer questions from different
+business stakeholders
+
+Develop advanced analytics systems using driver or predictive models to identify factors that influence business outcomes like learners' success, workforce productivity, etc. and help design and automate interventions to accelerate growth
+Required Technical and Professional Expertise
+
+Experience in using jupyter notebooks and Python to manipulate data and draw insights from large data sets
+Experience in creating and using advanced machine learning algorithms and statistics such as regression, modelling, clustering, decision trees, neural networks, etc.
+Experience with open-source ML/math toolkits such as scikit-learn, Pandas, NumPy, etc.
+Strong written, verbal, and presentation skills with the ability to present complex concepts in easy to understand language",Glassdoor
+29,Data Scientist,Atonarp,"Own the quality of end to end learning content for our flagship programs in international markets
+Ensure ongoing review of all the learning content and identify opportunities to improve quality in terms of appropriateness, accuracy, richness.
+Lead the efforts towards updating the content as well as creating additional content - videos, reading material, exercises and assignments. This will include creating content by self as well as engaging with SMEs to create the same. The most important aspect here will be to pick up problems from across business domains and functions, create solutions for them and then translate them into case studies.
+Deliver a great learner support experience by ensuring timely response and feedback on all academic queries from learners
+Create unique learning experiences that enable Great Learning customers to have a delightful learning experience and meaningful outcomes, these could be hackathons, conferences, panel discussions, industry sessions, ad-hoc competitions etc.
+Use insights derived from ad-hoc data analyses to answer questions from different
+business stakeholders
+
+Develop advanced analytics systems using driver or predictive models to identify factors that influence business outcomes like learners' success, workforce productivity, etc. and help design and automate interventions to accelerate growth
+Required Technical and Professional Expertise
+
+Experience in using jupyter notebooks and Python to manipulate data and draw insights from large data sets
+Experience in creating and using advanced machine learning algorithms and statistics such as regression, modelling, clustering, decision trees, neural networks, etc.
+Experience with open-source ML/math toolkits such as scikit-learn, Pandas, NumPy, etc.
+Strong written, verbal, and presentation skills with the ability to present complex concepts in easy to understand language",Glassdoor
+30,Data Scientist,NatWest Group,"As a Data Scientist, you’ll be supporting and collaborating with multi-disciplinary teams of data engineers and analysts on a wide range of business problems including the prevention of financial crime, understanding customer interactions with the bank and the management of credit risk. We'll look to you to develop end to end data services and products using Python, Apache Spark and AWS services stack.
+
+You’ll also be:
+
+Identifying and working with data sets from across the bank’s data estate to solve difficult, non-routine analysis problems
+Applying advanced analytical methods as needed, typically as part of a team to support wider decision making
+Developing your knowledge of data structures and metrics, advocating for changes where needed for product development
+Providing analysis that includes data gathering and requirements specification in collaboration with business stakeholders
+The skills you'll need
+We're looking for someone with a solid foundations in data analysis, applied commercial data science and engineering practices such as code construction, organisation, testing and deployment. You’ll need extensive experience with statistical software, database languages, big data technologies and cloud environments, along with experience articulating and translating business questions and using statistical techniques. You’ll also hold a degree in a quantitative discipline or equivalent practical experience in a data analysis related field.
+
+Additionally, you’ll demonstrate:
+
+Software development experience in technologies like Python, Spark SQL, Hive, AWS, Git, Jira, Confluence, and distributed and non-distributed ML
+Experience in data analysis libraries such as Pandas, Numpy, Scipy, Apache Spark MLlib, Scikitlearn or similar
+Expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models and sampling methods
+Experience in deploying machine learning models into a production environment
+The ability to demonstrate self-direction and motivation and willingness to learn new techniques
+Effective written and verbal communication skills and experience working as part of a multidisciplinary team",Glassdoor
+31,Data Scientist : Artificial Intelligence,IBM,"Work with broader team to build, analyze and improve the AI solutions.
+You will also work with our software developers in consuming different enterprise applications.
+Amazon AI. Sagemaker experience needed",Glassdoor
+32,AI/ML Engineer - Chiplogic,Chiplogic Semiconductor Services Private Limited,"Formal or informal certification in AI/ML is required.
+Ability to write code in Python and C/C++
+Knowledge of basics of math and probability
+Good understanding and strong knowledge of algorithms and statistics
+Good understanding of the fundamentals of Artificial Intelligence.
+Appreciation of data modeling, software architecture and data structures.
+Past experience of working in frameworks on projects or internships is desirable.
+Good communication skills
+Working in teams
+Preferred degree in Computer Science, Mathematics or similar courses or fields
+Finally, a demonstrated experience of working in Machine Leaning Jobs before is an added advantage
+Responsibilities
+
+Dataset preparation, pre-processing, and processing.
+Train and retrain systems
+Work on frameworks
+Undertaking machine learning experiments and test
+Designing machine learning programs
+Developing deep learning systems to various use cases based on the business needs and
+Finally implementing suitable AI/ML algorithms",Glassdoor
+33,Data Scientist,NatWest Group,"As a Data Scientist, you’ll be supporting and collaborating with multi-disciplinary teams of data engineers and analysts on a wide range of business problems including the prevention of financial crime, understanding customer interactions with the bank and the management of credit risk. We'll look to you to develop end to end data services and products using Python, Apache Spark and AWS services stack.
+
+You’ll also be:
+
+Identifying and working with data sets from across the bank’s data estate to solve difficult, non-routine analysis problems
+Applying advanced analytical methods as needed, typically as part of a team to support wider decision making
+Developing your knowledge of data structures and metrics, advocating for changes where needed for product development
+Providing analysis that includes data gathering and requirements specification in collaboration with business stakeholders
+The skills you'll need
+We're looking for someone with a solid foundations in data analysis, applied commercial data science and engineering practices such as code construction, organisation, testing and deployment. You’ll need extensive experience with statistical software, database languages, big data technologies and cloud environments, along with experience articulating and translating business questions and using statistical techniques. You’ll also hold a degree in a quantitative discipline or equivalent practical experience in a data analysis related field.",Glassdoor
+34,Analytics Data Scientist,IBM,"Consolidate data sets to improve reporting and analysis
+Build data-driven products and experiences that help our customers and directly impact their essential point.
+Provide insights using leading analytic practices, design and lead iterative learning and development cycles, and ultimately produce new and creative analytic solutions that will become part of our core deliverables.
+Work with multiple large data set to extract insights for recommendations to enhance business growth.
+
+Required Technical and Professional Expertise
+Minimum 0-3 years of total experience in IT Consulting
+Become a trusted business advisor to clients' senior management
+Proven communicator and has the ability to simplify and explain Data Science concepts and inferences to a wide variety of audience - Business, Technical and Executives.
+Proven mastery in advanced mathematics/statistical inference/machine learning methods, theories, and tools to analyze enterprise data.
+Hands on experience/exposure with building statistical inference models on ML platforms such as SPSS/ SAS/ Python/R
+
+Preferred Technical and Professional Expertise
+Familiarity with Banking Processes and Regulations
+You love collaborative environments that use agile methodologies to encourage creative design thinking and find innovative ways to develop with cutting edge technologies
+Ambitious individual who can work under their own direction towards agreed targets/goals and with creative approach to work
+Intuitive individual with an ability to manage change and proven time management
+Proven interpersonal skills while contributing to team effort by accomplishing related results as needed
+Up-to-date technical knowledge by attending educational workshops, reviewing publications",Glassdoor
+35,Data Science & Analytics,Samsung Electronics," [Data Collecting and managing] Developing modules or scripts for collecting, sampling, cleaning and storing data in DB or file system. Creating validation and testing set for final metric evaluation.
+ [Data pre-processing ] Reflect the features of collected data well and design pre-processing algorithm that eases unnecessary complexity.
+[Data modelling] Explore and design suitable machine learning model or deep learning algorithm or statistical model to solve business challenges.
+[Metric Reporting] Defining metric which correlates with business outcome. Calculating and reporting optimized metric result for data.
+ [Root cause analysis] Finding root cause analytically or intuitively why algorithms did not perform well for certain data. What more is required to improve metric further over the data.
+[Coding language / framework experience]:- Any DL , ML, framework such as tensorflow, keras, pytorch, Scikit etc. Coding language such as python, R, matlab etc. [SW Application Integration & Deployment] Experience in developing AI/ML base application and deploying in business domain. Experience in application development languages (any one) such as Python (Django, Plotly), Java, C sharp, C++, etc.
+
+Secondary Skills:- SW application development experience",Glassdoor
+36,"Lead, Data Science",Standard Chatered,"Implement Micro Service based architectural enhancements
+Design and Review framework components
+Responsible for design and development of reusable components using Machine learning and Graph knowledge database
+Highly Scalable component design and development
+Able to handle various stakeholders/teams (business, support, testing, etc.)
+Build strong application knowledge and collaborate with partnering teams
+Mentoring a team of developers to ensure technical deliveries are performed on time.
+Skill Set
+
+Must have earlier experience working and applying Machine Learning and Neo4j (Knowledge Graph)
+Selecting features, building and optimizing classifiers using machine learning techniques
+Familiar with Graph Database and responsible for implementing knowledge graph like Neo4j.
+Familiar with Neo4j- APOC and GDS(Graph Data science) libraries
+Understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, Bert, Regression etc.
+Experience in working with Advanced Python API’s and Flask/gunicorn container
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills
+Data-oriented personality
+Strong proficiency with Python and REGEX
+Proficiency in Java technologies a plus
+Integration of APIs, multiple data sources and databases into one system
+Implementing automated testing platforms, unit tests, and CICD Pipeline
+Proficient understanding of code versioning tools, such as GitHub, Bitbucket
+Familiar and working experience with DevOps tools like Ansible, Jenkins, Terraform",Glassdoor
+37,Data Scientist I,Delhivery,"We need crazy (no exaggeration) algorithm designers to “perform gymnastics” with the firm’s data, draw analogies and find patterns, and tell stories that have not yet been told, and which will help the firm solve pressing business problems.
+
+A very small sample of the problems you might work on:
+Design and implement smart dashboards and reports that tell the whole story by themselves, without relying on the user to drill down or make choices. For example, can the CEO get a daily automated report that talks about everything significant that happened in the business the previous day?
+Recommend how to best utilise our trucks for in-city deliveries in order to reduce costs. The approaches we have come up with so far for this include some combination of computational geometry, genetic algorithms and operations research.
+We do a large number of our last mile deliveries using independent contractors. How do we price our arrangements with them?
+
+We need fundamentally curious people who are happy to try new (and potentially unusual) approaches to solving the problems. We also need “algorithmic generalists” - people who are familiar with a very wide range of algorithmic approaches, and are always willing to learn and try out new things.
+
+Broad responsibilities:
+Understand business problems and translate into computational / data problems. And then convert the solutions back to the data domain
+Develop models, algorithms and heuristics to solve business problems in an efficient and time-bound manner
+Develop logical metrics to evaluate and monitor the business
+Build impactful and automated representations / visualisations of underlying data and key metrics in order to enable the business to make key decisions
+
+The role reports directly to Karthik Shashidhar, Senior Vice President, Analytics and Business Intelligence.
+
+Required Qualifications
+
+We are looking for people who are excited by data, and excited by business, and excited in bringing the two together to create high impact. We are a fast-paced team, and expect quick turnarounds. Most of the problems we work on are ambiguous, and resolving ambiguity is a key part of the role.
+
+Key requirements
+Bachelors/Masters degree in Computer Science and Engineering / Mathematics / Statistics from a top-tier institution (either in India or abroad)
+Strong at algorithms, classic artificial intelligence (not machine learning) and heuristics
+Very good at mathematics and logic
+Willingness to learn and use new technologies and programming languages
+Ability to work with “big data”
+Strong written, oral and visual communication skills
+Common sense, and an appreciation of common logical fallacies
+",Glassdoor
+38,Data Scientist,ABB,"Your responsibilities
+Working with business managers to frame a problem, both mathematically and within the business context.
+Understanding business data and how to use it appropriately in data analysis.
+Performing exploratory data analysis to gain a deeper understanding of the problem
+Construct and fit statistical, machine learning, or optimization models.
+Applying and develop appropriate advanced statistical, machine learning, and/or deep learning models and algorithms to classify structured or unstructured data.
+Collaborating with internal stakeholders to understand business challenges and develop analytical solutions to optimize business processes.
+Test performance of machine learning and deep learning models.
+Your background
+Your Bachelor’s/Master’s degree in Applied Statistics/Mathematics, , Engineering, Operations Research or related field with, preferably from the top schools such IITs, NIT, DU, DSE, etc :
+1-5 years of work experience in Advanced Analytics.
+1-5 years of experience with advanced statistical modeling and machine learning.
+Highly proficient with analytical/predictive modeling software. (Python/R/SAS or similar)
+Strong understanding and experience with predictive / analytical modeling techniques, theories, principles, and practices.
+Strong understanding deployment, SQL, Docker, Django, AWS EC2, Azure, cloud technologies, Predictive Analytics, AI, text Analytics, Computer vision, machine learning, deep learning, predictive analytics, artificial intelligence. Time series, NLP, neural network, segmentation an Python is must.",Glassdoor
+39,Machine learning engineer,Tipstat Infotech,"Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress
+Managing available resources such as hardware, data, and personnel so that deadlines are met
+Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probability
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Verifying data quality, and/or ensuring it via data cleaning
+Supervising the data acquisition process if more data is needed
+Finding available datasets online that could be used for training
+Defining validation strategies
+Defining the preprocessing or feature engineering to be done on a given dataset
+Defining data augmentation pipelines
+Training models and tuning their hyperparameters
+Analyzing the errors of the model and designing strategies to overcome them
+Deploying models to production
+Skills & Qualifications
+
+Background in Sound Engineering
+Proficiency with a deep learning framework such as TensorFlow or Keras
+Proficiency with Python and basic libraries for machine learning such as scikit-learn and pandas
+Expertise in visualizing and manipulating big datasets
+Proficiency with OpenCV
+Familiarity with Linux
+Ability to select hardware to run an ML model with the required latency""",Glassdoor
+40,Data Scientist,Paktolus,"Bachelor’s Degree in the fields of Statistics or an equivalent with a minimum of 3 years of experience in data science.
+Should be able to interpret complex requirements and translate them to a machine learning algorithm.
+Should have expertise in machine learning techniques: Regression, Classifications, Decision Trees, Random Forest.
+Should have expertise in Deep Learning & Reinforcement Learning techniques
+Should have experience in building statistical models using the above-mentioned techniques
+Should possess the ability to build & deploy the models and interpret the results to business users
+Should have experience working with NLP models and building-related applications such as chatbot, text-classifications, etc
+Should have experience working with big data tools – Hadoop, Hive, Spark.
+Proficiency in Python, Good understanding of OOPs is a must.
+Worked with at least one mainstream machine learning framework such as Caffe, convNet, Tensor Flow and Torch
+Experience working with Cloud platforms (Azure, AWS, GCP)
+Should have experience in building & designing data warehouses.
+Should have the ability to write complex SQL & stored procedures
+Should have experience in working with API’s - deploying models, extracting data.
+Should have good communication skills and ability to interact with customers",Glassdoor
+41,Data Science Researcher,Shell,"As a Data Science Researcher, your responsibilities are as follows:
+
+Apply your knowledge of Data Science to a variety of problems like predictive analytics, asset integrity, process optimization, remaining useful life estimation, prediction and forecasting.
+Gather, integrate, and analyze large data sets and use statistical analysis to support decision making.
+Evaluate data science methods and procedures used to ensure applicability, efficiency, accuracy, and validity of analyses.
+Research new ideas and stay up to date with the world of AI/ML.
+Propose and develop innovative designs and analysis methods and evaluate them via simulation studies.
+Proactively work with other product teams and internal stakeholders across different use cases.
+Consult and convey statistical modeling results as well as business impact to internal and external business partners.
+Share knowledge and expertise with the team.
+Collaborate to create intellectual property such as white papers, articles, and patents.
+What we need from you
+
+Master's Degree or PhD in relevant discipline such as Statistics, Mathematics, Computational Science, Computer Science, Physics or related fields.
+Significant commercial experience building ML and AI models both using traditional ML approaches as well as Deep Learning.
+Solid foundation in Statistics and Mathematics (Linear algebra, probability theory, Bayesian statistics, etc.)
+Working knowledge of main ML libraries and frameworks (e.g., tensorflow, sckit-learn, pyTorch).
+Hands-on experience with ML cloud services such as AzureML and/or AWS Sagemaker.
+Excellent software programming skills in object-oriented programming framework.
+Able to write clean, well-documented code in Python.
+Experience across the project life cycle, from ideation to delivery.
+Excellent communication skills (both technical and non-technical audiences) and the ability to work in a team.",Glassdoor
+42,Applied ML Engineer,4CRisk.ai.Software,"Responsible for entire solution lifecycle - data collation, solution development, key metrics, validation, etc.
+Custom training and Fine-tuning of the ML models
+Build ML pipelines - multi-step solutioning to solve the problems.
+Optimizing the ML algorithms/workflows to fit into the compute/application constraints - for example, model distillation, training custom models for performance improvements etc.
+Your Skills…
+A passion for cognitive architectures
+AI, NLP, ML, Optimization, or equivalent experience in related fields
+Experience with various ML algorithms and tools– Scikitlearn, PyTorch, Tensorflow, Deep Learning, Transformers etc
+Hands on experience on REST API development, creation/enabling Microservices (AIaaS)",Glassdoor
+43,Data Analyst - NLP,LSEG(London Stock Exchange Group,"pplied NLP, a group in Refinitiv Company, is utilizing state of the art language processing technology to analyze, connect and drive value from the largest information assets in the world. We create tools for professionals to build their own NLP solution in areas such as entity extraction and text categorization.
+We are looking for analyst with strong interest in languages and Natural Language Processing and high technical skills. This person will take a significant part in our development process and will have full ownership of the content quality of the product under his/her responsibility.
+
+JOB DESCRIPTION & RESPONSIBILITIES
+The NLP development group requires a specialist who will be responsible for testing content extraction; working closely with the Subject Matter Experts to identify and model the unstructured content to improve consumption of the information by Refinitiv systems.
+The data analyst will be responsible for the full flow of the content testing process, from individual features to products or projects. It includes analyzing the quality of the product, identifying the gaps in quality, and suggesting ways to bridge these gaps.
+The data analyst should be ready to work in a dynamic environment and work in multi-tasking mode.
+The role responsibilities include:
+Testing information extraction in English and analyzing the results;
+Providing feedback and recommendations to development and product based on test and analysis results;
+Writing detailed test reports and reporting issues;
+Working closely with the development & deployment teams;
+REQUIRED SKILLS, KNOWLEDGE, AND EXPERIENCE
+English at mother-tongue level – a must
+Interest in languages or language related technologies – a must
+High technical skills – a must
+Familiarity with advanced Excel functionalities – a major advantage
+The ability to work independently, energetically and creatively
+Excellent team work skills",Glassdoor
+44,NLP Engineer,Softek,"hands on experience in Machine Learning OR Artificial intelligence related to Natural language processing and or Computational linguistics
+Application of machine learning algorithms and techniques for natural language processing.
+Experience with supervised and unsupervised machine learning techniques.
+Sound knowledge in Syntax and Semantic processing using statistical methodologies and/or Chatscript
+Experience in applied linguistics & NLP
+Expert in English language (vocabulary & sentence formation)
+Data analytics (text mining and understanding the data clusters), Node.js and scripting.
+Good knowledge on content categorization algorithms
+Research, design and development of natural language processing algorithms
+What you would do
+
+Build content for chatbot and define an efficient process for identifying targeted follow-up questions based on keywords.
+Research and analyze the scope of intent within the linguistic and technical dimensions of chatbot’s capabilities.
+Work with developers, product, and engineering teams to maximize conversions while ensuring a great user experience.
+Understand how Natural Language Processing and Machine Learning are integral to chatbot development.
+Analyze chat history and optimize intents.
+Experiment with different content formats and styles to deliver unique user experiences.
+Drive continual content refinement and improvement through content experiments, user feedback, and analysis of performance metrics.
+Create conversational flows to suit the requirements.
+Train the chatbot accordingly to understand the linguistic variations of diverse types of users.",Glassdoor
+45,Data Scientist Engineer,Adobe,"Gather and process raw data at scale (including writing scripts, web scraping, calling APIs (Application Program Interfaces), write advanced SQL queries, etc.).
+Work closely with our engineering team to integrate data SDK (Software Development Kit) and instrument operational and behavioural events with standard data models.
+Process unstructured data into a form suitable for analysis – and then do the analysis, build visualisations.
+Support product and business decisions with ad hoc analysis as needed.
+We use AWS (Amazon Web Services) extensively, so experience with big data, EMR (Elastic Map Reduce), Hadoop,
+Hive, Spark, Notebooks, and other services will help you hit the ground running.
+About you :
+Strong knowledge of and experience with data; Knowledge of statistics & advanced math is a plus.
+Programming experience, in Python, Node, Typescript, React Java, D3, HTML/CSS but we are open to other experience if you’re willing to learn the languages we use.
+Dashboard experience with Visualisation & Intelligence tools (e.g., Splunk, Power BI (Business Intelligence), Tableau, Adobe Analytics)
+Experience processing enormous amounts of structured and unstructured data. Map Reduce experience is a plus.
+Enough programming knowledge to clean and scrub noisy datasets.
+Deep knowledge in data mining & information retrieval; Understanding of machine learning, natural language
+processing is a plus.",Glassdoor
+46,AI Resident - Data Science,Shell,"MSc or equivalent in Statistics, Mathematics or similar discipline with at least 5 years’ experience on data science/statistics projects.
+Experience in general linear modelling, multivariate analysis, statistical modelling, and preferred additional knowledge of time series modelling, signal processing.
+Awareness of issues in statistics and dependence on data quality
+A practical common sense approach to problem solving and attention to detail.
+A passion for and expertise in practicing statistical consulting to solve real-world problems.
+Excellent oral and written communication skills.
+Strong interpersonal skills and enthusiasm for team work, as well as the ability to work independently.
+High standards of code quality, making use of version control tools.
+Proficiency in statistical software packages such as R, Python, JMP.",Glassdoor
+47,Senior ML Engineer,Levi Strauss & Co,"Architect, build, maintain, and improve new and existing suite of algorithms and their underlying systems.
+Implement end-to-end solutions for batch and real-time algorithms along with requisite tooling around monitoring, logging, automated testing, performance testing and A/B testing
+Utilize your entrepreneurial spirit to identify new opportunities to optimize business processes and improve consumer experiences, and prototype solutions to demonstrate value with a crawl, walk, run mindset.
+Work closely with data scientists and analysts to create and deploy new product features on the e-commerce website, in-store portals and the Levi’s mobile app
+Establish scalable, efficient, automated processes for data analyses, model development, validation and implementation
+Write efficient and well-organized software to ship products in an iterative, continual-release environment
+Contribute to and promote good software engineering practices across the team
+Mentor and educate team members to adopt best practices in writing and maintaining production machine learning code
+Communicate clearly and effectively to technical and non-technical audiences equally well
+Actively contribute to and re-use community best practices
+Embody the values and passions that characterize Levi Strauss & Co., with empathy to engage with colleagues from a wide range of backgrounds",Glassdoor
+48,CIB- Applied ML AI - Associate Sr,JP Morgan Chase Bank ,"Research and develop innovative ML based solutions to some of the firms' hardest problems
+
+Understand the business to formulate relevant high impact business questions that can be answered through data analysis.
+
+Work on building robust Data Science capabilities which can be scalable across multiple business use cases.
+
+Collaborate with Tech partners to design and deploy Machine Learning services that can be integrated with strategic systems.
+
+Think strategically to leverage reusable components within the firm and state of the art available externally when building the capabilities.
+
+Research and analyse data sets using a variety of statistical and machine learning techniques.
+
+Communicate final results and give context.
+
+Document approach and techniques used.
+
+Required Technical Qualifications and experience
+
+BTech, MS or PhD in a quantitative or computational discipline
+
+Hands-on experience developing and deploying Data Science and ML capabilities in production at scale.
+
+Strong ability to develop and debug in Python or similar professional programming language.
+
+Should be able to work both individually and collaboratively in teams, in order to achieve project goals.
+
+Must be curious, hardworking and detail-oriented, and motivated by complex analytical problems.
+
+Experience in deep learning / applied AI
+
+Able to be results and client focused and follow the agile development paradigm.",Glassdoor
+49,Data Engineer,TransUnion,"Bachelor’s or master’s degree in • Engineering (all disciplines) • Computer Science / Computer Engineering • Mathematics / Statistics / Sciences Finance / Economics • Experience - 0 to 3 years • A track record of outstanding academic performance • Strong analytical, creative, and interpersonal skills • Demonstrated problem solving and root cause analysis skills • Ability to work creatively and analytically in a problem-solving environment • Eagerness to contribute in a team-oriented environment • Effective communication (written and oral) • Familiarity with SQL, AWS and/ or Python or other programing/data mining language is desired
+Impact You'll Make:
+
+• Gather, Transform, Validate, aggregate and report on client data. • Analyze data to systematically apply in-house developed, complex analysis technology to test the data quality and create benchmark solutions. • Work directly with clients and other financial institutions to resolve critical issues in data quality • Work directly with client modelling teams to gather requirements based on clients’ need. • Analyze large amounts of trended client and industry data, identify red flags and perform root cause analysis. • Manipulate large amounts of (historical data), scrub, filter and select sample criteria for analysis • Produce and validate benchmarks based on clients’ specifications. • Enhance and improve the in-house technology suite for validating and reporting on new data. • Create documentation to define business needs. • Meet all operational SLAs to deliver high quality data in a timely and consistent manner • Develop data driven exploratory analysis to solve defined problems",Glassdoor
+50,Data Engineer - Scala Or Python,Mercedes Benz Research and Development India Pvt Limited,"Work as part of a team to develop Cloud Data and Analytics solutions in the vehicle Transmissions space.
+Participate in development of cloud data warehouses, data as a service, business intelligence and machine learning solutions.
+Data wrangling of heterogeneous data
+Ability to provide solutions that are forward-thinking in data and analytics
+Developing complex data transformation logics using Scala.
+Mentor a team of High Performing Engineers to deliver complex data solutions and identify Data Driven Development opportunities.
+Identify strategic and Operational KPIs for the team and drive the team to deliver the committed targets.
+Collaborating with Global stakeholders.
+
+Skills/Qualifications
+
+Programming experience in Scala OR Python and SQL is a MUST.
+Hands-on experience in Azure stack (Azure Data Lake, Azure Data Factory, Azure Databricks) - Mandatory
+Hands-on experience of other Azure services like Azure Data Lake Analytics & U-SQL, Azure SQL DW
+Good understanding of Azure Databricks platform and can build data analytics solutions to support the required performance & scale
+Demonstrated analytical and problem-solving skills, particularly those that apply to a big data environment
+Good Understanding of Modern Data Warehouse/Lambda Architecture, Data warehousing concepts
+Good Understanding of Machine Learning and AI solution space.
+Good Understanding Automobile Components functioning (Knowledge on transmissions will be a big plus)
+Proficient in a source code control system such as GIT
+Ability to code
+Soft Skills
+Excellent written and verbal skills (English)
+Flexible
+Self-Starter
+Team Player, Team Leader",Glassdoor
